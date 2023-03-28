@@ -45,7 +45,7 @@ resumeautorotation(forcehotspot);
 
   <layer name="button"
          keep="true"
-         url="%FIRSTXML%/graphics/button/29986_45.png"
+         url="%FIRSTXML%/graphics/button/_29986_45.png"
          align="top"
          x="0"
          y="10"
